@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Items" ALTER COLUMN "itemId" SET DATA TYPE BIGINT;
